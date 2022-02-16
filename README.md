@@ -1,4 +1,4 @@
-# Reserva-automatica-de-turno-para-pasaporte-consulado-de-Italia-en-Mendoza
+# Reserva automatica de turno para pasaporte consulado de Italia en Mendoza
 ###### Este escript de python esta echo con la idea de reservar de manera automatica un turno para sacar el pasaporte italiano en la paguina web del consulado de Mendoza Argentina
 
 
